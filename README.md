@@ -95,7 +95,7 @@ Este comando te generará una ruta, la cual es la que debes poner en la variable
   php artisan serve
 ```
 
-2. Abre en el navegador el servidor y veras la pantalla con el input para el url
+2. Abre en el navegador y veras la pantalla con el input para el url
 
 ![App Screenshot](/public/media/inputUrl.png)
 
